@@ -1,0 +1,21 @@
+# Closing behaviour
+quit-after-last-window-closed = true
+confirm-close-surface = false
+
+# Theme
+# theme = catppuccin-macchiato 
+theme = rose-pine-moon
+
+# Font
+font-family = JetBrains Mono
+font-size = 14
+# font-family = MonaspiceNe Nerd Font Mono
+# font-style = Light
+
+# macOS specific features
+macos-titlebar-style = hidden
+macos-option-as-alt = true
+
+# Window
+background-opacity = 0.95
+background-blur-radius = 20
