@@ -4,7 +4,9 @@ confirm-close-surface = false
 
 # Theme
 # theme = catppuccin-macchiato 
-theme = rose-pine-moon
+# theme = rose-pine-moon
+# theme = OneHalfDark
+theme = tokyonight-storm
 
 # Font
 font-family = JetBrains Mono
@@ -19,3 +21,6 @@ macos-option-as-alt = true
 # Window
 background-opacity = 0.95
 background-blur-radius = 20
+
+# Shell
+shell-integration-features = no-cursor,no-sudo,title
